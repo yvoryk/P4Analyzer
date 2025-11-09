@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="plc.project.AnalyzerTests" tests="44" skipped="0" failures="0" errors="0" timestamp="2025-11-09T01:46:30.277Z" hostname="YARO" time="0.188">
+  <properties/>
+  <testcase name="For" classname="plc.project.AnalyzerTests" time="0.036"/>
+  <testcase name="Declaration" classname="plc.project.AnalyzerTests" time="0.002"/>
+  <testcase name="Initialization" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Unknown Type" classname="plc.project.AnalyzerTests" time="0.005"/>
+  <testcase name="Variable" classname="plc.project.AnalyzerTests" time="0.002"/>
+  <testcase name="Field" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Grouped Literal" classname="plc.project.AnalyzerTests" time="0.003"/>
+  <testcase name="Grouped Binary" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Boolean" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Integer Valid" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Integer Invalid" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Valid Condition" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Invalid Condition" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Integer to Integer" classname="plc.project.AnalyzerTests" time="0.009"/>
+  <testcase name="Integer to Decimal" classname="plc.project.AnalyzerTests" time="0.004"/>
+  <testcase name="Integer to Comparable" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Integer to Any" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Any to Integer" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Function" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Function Valid Arg" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Function Invalid Arg" classname="plc.project.AnalyzerTests" time="0.002"/>
+  <testcase name="Method" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Variable" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Invalid Type" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Field" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Declaration" classname="plc.project.AnalyzerTests" time="0.002"/>
+  <testcase name="Initialization" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Missing Type" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Unknown Type" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Valid Condition" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Invalid Condition" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Invalid Statement" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Empty Statements" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Logical AND Valid" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Logical AND Invalid" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="String Concatenation" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <testcase name="Integer Addition" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Integer Decimal Addition" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Function" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Literal" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Hello World" classname="plc.project.AnalyzerTests" time="0.002"/>
+  <testcase name="Return Type Mismatch" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Invalid Return" classname="plc.project.AnalyzerTests" time="0.001"/>
+  <testcase name="Missing Integer Return Type for Main" classname="plc.project.AnalyzerTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
