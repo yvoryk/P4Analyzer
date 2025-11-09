@@ -1,0 +1,12 @@
+# Build directories
+/build/
+/.gradle/
+
+# OS files
+*.log
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+*.class
